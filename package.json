@@ -1,0 +1,27 @@
+{
+  "name": "tstl-log-lua",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiy01/tstl-log-lua.git"
+  },
+  "keywords": [
+    "tstl",
+    "typescript",
+    "typescript-to-lua",
+    "lua",
+    "logging",
+    "log"
+  ],
+  "author": "maxiy01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxiy01/tstl-log-lua/issues"
+  },
+  "homepage": "https://github.com/maxiy01/tstl-log-lua#readme"
+}
